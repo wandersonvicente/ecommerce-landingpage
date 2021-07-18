@@ -22,7 +22,7 @@ form.addEventListener("submit", (event) => {
   `;
 
   let isDone = `
-  <img src="../assets/celebrate.gif" width="100%">
+  <img src="./assets/celebrate.gif" width="100%">
   <P> PARABÉNS!!!</P>
   <P> Cadrastro realizado com sucesso!!!</P>
   `;
